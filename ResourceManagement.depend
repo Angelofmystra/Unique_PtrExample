@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1429230672 source:c:\users\bertrand\documents\templatesamples\resourcemanagement\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<memory>
+
